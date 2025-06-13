@@ -1,0 +1,4 @@
+autogen-agentchat==0.4.8
+autogen-ext[openai,azure,docker]==0.4.8
+python-dotenv
+rich
