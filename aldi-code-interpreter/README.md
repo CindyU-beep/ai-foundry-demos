@@ -87,4 +87,4 @@ FROM ghcr.io/lazauk/uidemokit-agentservice:latest
 > If deploying the Docker container locally or on another cloud platform, you will need to configure a mechanism to pass credentials for a service principal authorised to access your Azure AI Foundry resources. This is not required when deploying to Azure Web App with Managed Identity.
 
 ## Part 4: Demo videos on YouTube
-This is a [playlist of short videos](https://www.youtube.com/playlist?list=PLcAssiH4f14tXdGMbGwOoUbg7el5QPMC9) demonstrating this solution in action.
+This is a [playlist of short videos](https://www.youtube.com/watch?v=DORItnrxpJk&feature=youtu.be) demonstrating this solution in action.
